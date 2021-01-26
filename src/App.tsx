@@ -1,11 +1,11 @@
 import 'App.css'
-import Main from 'views/components/Main'
+import DataTracer from 'views/components/DataTracer'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Main text="Hello, RubyVM Visualizer" />
+        <DataTracer />
       </header>
     </div>
   )
