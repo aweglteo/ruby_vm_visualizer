@@ -1,5 +1,5 @@
 import 'App.css'
-import DataTracer from 'views/components/DataTracer'
+import DataTracer from 'views/components/DataTracer.js'
 
 function App() {
   return (
